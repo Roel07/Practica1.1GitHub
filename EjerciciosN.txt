@@ -137,9 +137,15 @@ y altura.
 	 Escribir "El valor en pulgadas es: " pulgadas
    FinAlgoritmo
 
+12. Diseñar un algoritmo que convierta y muestre la temperatura en Fahrenheit ingresando la
+    temperatura en Celsius.
 
-
-
+    Algoritmo ConversionGrados
+	Escribir "Ingrese la temperatura en grados celcius (°C) " 
+	leer grados
+	gradosF =  (grados*9/5) + 32 
+	 Escribir "Los grados Fahrenheits son: " gradosF
+    FinAlgoritmo
 
 
 
