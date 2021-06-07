@@ -42,4 +42,51 @@
 	Escribir "El cubo del numero ingresado es: " cubo
    FinAlgoritmo
    
+5. Diseñar un algoritmo que pida un numero por teclado y luego imprima el número siguiente al ingresado.
+
+   Algoritmo NumSiguiente
+	Escribir "Ingrese un numero: "
+	leer numero
+	nSiguiente = numero + 1
+	Escribir "El numero siguiente del ingresado es: " cuadrado
+	
+  FinAlgoritmo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
