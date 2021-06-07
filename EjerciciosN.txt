@@ -167,8 +167,19 @@ y altura.
 	 
     FinAlgoritmo
 
+14. Crear un algoritmo que calcule si dos números son divisibles. Para ello, se piden un primer número y un
+    segundo número, entonces mostrar un cartel que diga “es divisible” si el segundo número es divisible al primero.
 
-
+    Algoritmo Divisibles
+	Escribir "Ingrese el primer número: "
+	Leer num1
+	Escribir "Ingrese el segundo nmero: "
+	leer num2
+	Si num2 MOD num1 = 0
+		Escribir " Es divisible " 
+	SiNo
+	 
+	FinSi
 
 
 
