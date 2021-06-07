@@ -54,7 +54,7 @@
 
 6. Diseñar un algoritmo que genere un número aleatorio del 0 al 200, lo muestre y luego calcule y muestre el mismo numero aumentado en un 30% (función aleatorio (min y max) que retorna un numero aleatorio entre el min y max)
 
-  Algoritmo NumSiguiente
+  Algoritmo Aleatorio
 	Definir numero Como Entero
 	Escribir "Se generó un numero aleatorio: "
 	numero = azar (200) 
@@ -63,9 +63,18 @@
 	Escribir "El número aumentado en un 30% es: " aumentado
   FinAlgoritmo
 
+7. Diseñar un algoritmo que genere un número
+   aleatorio del 10 al 50, lo muestre y luego calcule y
+   muestre el mismo número disminuido en un 15%.
 
-
-
+   Algoritmo Disminuido
+	Definir numero Como Entero
+	Escribir "Se generó un numero aleatorio entre 10 y 50: "
+	numero = azar (50) +10 
+	Escribir "El numero aleatorio es: " numero
+	nDisminuido = numero - numero * 0.15
+	Escribir "El número aumentado en un 15% es: " nDisminuido
+  FinAlgoritmo
 
 
 
