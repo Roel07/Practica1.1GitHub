@@ -101,6 +101,20 @@
    FinAlgoritmo
 
 
+10. Diseñar un algoritmo que imprima el área y el
+perímetro de un rectángulo ingresando su base
+y altura.
+
+   Algoritmo AreaPerimetro
+	Escribir "Ingrese la base del rectangulo"
+	leer base
+	Escribir "Ingrese el perimetro del rectangulo"
+	Leer altura
+	area = base * altura
+	perimetro = (base*2) + (altura*2)
+	Escribir "El área del rectangulo es: " area 
+	Escribir "El perimetro del rectangulo es: " perimetro
+   FinAlgoritmo
 
 
 
