@@ -116,7 +116,26 @@ y altura.
 	Escribir "El perimetro del rectangulo es: " perimetro
    FinAlgoritmo
 
-
+11. Crear un algoritmo que convierta y muestre un valor ingresado en centímetros a yardas, metros,
+    pies y pulgadas.
+    
+    Algoritmo Conversion
+	Escribir "Ingrese el valor en centimetros que desea convertir a " 
+	 Escribir "Yardas, metros, pies y pulgadas: "
+	 leer numero
+	 yardaV = 0.0109361 
+	 metrosV = 0.01
+	 piesV = 0.0328084
+	 pulgadasV = 0.393701
+	 yardas = numero * yardaV
+	 metros = numero * metrosV
+	 pies = numero * piesV
+	 pulgadas = numero * pulgadasV
+	 Escribir "El valor en yardas es: " yardas
+	 Escribir "El valor en metros es: " metros
+	 Escribir "El valor en pies es: " pies
+	 Escribir "El valor en pulgadas es: " pulgadas
+   FinAlgoritmo
 
 
 
