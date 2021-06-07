@@ -184,7 +184,7 @@ y altura.
     
 15. Diseñar un algoritmo que indique con carteles si el número ingresado es negativo, positivo o nulo.
 
-    Algoritmo Divisibles
+    Algoritmo NPositivo
 	Escribir "Ingrese un número: "
 	Leer numero
 	si numero > 0
@@ -201,6 +201,28 @@ y altura.
 	
 FinAlgoritmo
 
+16. Ingresar tres números y mostrar el mayor (asuma que todos son distintos entre sí).
+
+    Algoritmo NMayor
+	Escribir "Ingrese el primer número: "
+	Leer numero1
+	Escribir "Ingrese el segundo número: "
+	Leer numero2
+	Escribir "Ingrese el tercer número: "
+	Leer numero3
+	si numero1 > numero2 y numero1 > numero3
+		Escribir "El número 1 es el mayor: " numero1
+	SiNo 
+		Si numero2 > numero3 
+			Escribir "El numero 2 es el mayor " numero2
+		SiNo
+			Escribir "El numero 3 es el mayor " numero3
+		FinSi
+	 
+	FinSi
+	
+	
+   FinAlgoritmo
 
 
 
