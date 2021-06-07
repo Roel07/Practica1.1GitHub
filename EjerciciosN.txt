@@ -76,7 +76,16 @@
 	Escribir "El número aumentado en un 15% es: " nDisminuido
   FinAlgoritmo
 
-
+8. Diseñar un algoritmo que, dados tres numeros enteros, calcule e imprima el promedio entre ellos.
+    
+   Algoritmo Promedio
+	Definir numero1, numero2, numero3 Como Entero
+	numero1 = 85 
+	numero2 = 72 
+	numero3 = 78
+	prom = (numero1+numero2+numero3)/3
+	Escribir "Promedio es: " prom
+  FinAlgoritmo
 
 
 
