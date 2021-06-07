@@ -1,1 +1,7 @@
+1. Diseñar un algoritmo que, dado dos números, muestre por pantalla su suma
 
+   Algoritmo Suma	
+	leer num1, num2
+	resultado = num1 + num2
+	Escribir "El resultado de la suma es: " resultado
+   FinAlgoritmo
