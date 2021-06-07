@@ -180,6 +180,26 @@ y altura.
 	SiNo
 	 
 	FinSi
+    FinAlgoritmo
+    
+15. Diseñar un algoritmo que indique con carteles si el número ingresado es negativo, positivo o nulo.
+
+    Algoritmo Divisibles
+	Escribir "Ingrese un número: "
+	Leer numero
+	si numero > 0
+		Escribir "El número ingresado es positivo: "
+	SiNo 
+		Si numero < 0 
+			Escribir "El numero ingresado es negaivo"
+		SiNo
+			Escribir "Nullo"
+		FinSi
+	 
+	FinSi
+	
+	
+FinAlgoritmo
 
 
 
