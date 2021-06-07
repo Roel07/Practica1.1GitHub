@@ -87,7 +87,18 @@
 	Escribir "Promedio es: " prom
   FinAlgoritmo
 
+9. Diseñe un algoritmo que imprima el área y el perimetro de un rectangulo ingresando su base y altura 
 
+   Algoritmo IntercambioP
+	Escribir "Ingrese la 1ra palabra"
+	leer a
+	Escribir "Ingrese la 2da palabra"
+	Leer b
+	b2 <- a
+	a2 <- b
+	Escribir "La primera palabra intercambiado es: " a2 
+	Escribir "La segunda palabra intercambiado es: " b2
+   FinAlgoritmo
 
 
 
