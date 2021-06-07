@@ -224,7 +224,30 @@ FinAlgoritmo
 	
    FinAlgoritmo
 
-
+17. Realice un algoritmo para mostrar un cartel que indique si un triángulo es «escaleno», «equilátero» o
+    «isósceles» ingresando sus lados.
+    
+    Algoritmo Triangulo
+	Escribir "Ingrese el primer lado: "
+	Leer lado1
+	Escribir "Ingrese el segundo lado: "
+	Leer lado2
+	Escribir "Ingrese el tercer lado3: "
+	Leer lado3
+	si lado1 == lado2 y lado1 == lado3
+		Escribir "El triangulo es equilateros " 
+	SiNo 
+		Si lado1 == lado2 y lado1 != lado3 
+			Escribir "El triangulo es isoceles " 
+		SiNo
+			Escribir "El triangulo es escaleno " 
+		FinSi
+	 
+	FinSi
+    FinAlgoritmo
+    
+    
+    
 
 
 
