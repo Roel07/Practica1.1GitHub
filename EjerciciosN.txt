@@ -147,6 +147,25 @@ y altura.
 	 Escribir "Los grados Fahrenheits son: " gradosF
     FinAlgoritmo
 
+13. Diseñar un algoritmo que calcule el volumen de un cilindro dados su radio y altura (primero el
+    programa deberá verificar si son positivas).
+    
+    Algoritmo CVolumen
+	Escribir "Ingrese el radio del cilndro" 
+	leer radio
+	Escribir "Ingrese la altura del cilndro" 
+	leer altura
+	
+	si rad > 0 y altura > 0
+		p = 3.1416
+		vol =  p * radio * radio * altura
+		Escribir "El volumen del Cilondro es: " vol
+	SiNo
+		Escribir "Valor no valido"
+	FinSi
+	
+	 
+    FinAlgoritmo
 
 
 
