@@ -30,4 +30,16 @@
 	Escribir "El triple del numero ingresado es: " triple
    FinAlgoritmo
    
-      
+4. Diseñar un algoritmo que imprima el cuadrado y
+   el cubo de un número ingresado por teclado
+   
+   Algoritmo CuadradoCubo
+	Escribir "Ingrese un numero: "
+	leer numero
+	cuadrado = numero * numero
+	cubo = numero * numero * numero
+	Escribir "El cuadrado del numero ingresado es: " cuadrado
+	Escribir "El cubo del numero ingresado es: " cubo
+   FinAlgoritmo
+   
+
