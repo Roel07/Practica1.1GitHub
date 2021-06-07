@@ -5,3 +5,14 @@
 	resultado = num1 + num2
 	Escribir "El resultado de la suma es: " resultado
    FinAlgoritmo
+   
+2. Realice un algoritmo que solicite dos datos: país y capital. Y luego muestre la capital 
+   del país. El cartel debe ser como  lo indica el siguiente ejemplo: “Katmandú es la capital de Nepal”.
+   
+   Algoritmo PaisCapital
+	Escribir "Ingrese la capital: "
+	leer capital
+	Escribir "Ingrese el país "
+	leer pais 
+	Escribir capital "es la capital de: " pais
+   FinAlgoritmo
