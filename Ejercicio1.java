@@ -8,7 +8,7 @@ public class Ejercicio1{
 
 		int suma = numero1 + numero2;
 
-		System.out.println("La suma de los números es: ") + suma 
+		 System.out.println("La suma de los numeros es igual a: " + suma);
 
 	}
 }
