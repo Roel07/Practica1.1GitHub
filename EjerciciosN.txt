@@ -29,8 +29,7 @@
 	Escribir "El triple del numero ingresado es: " triple
    FinAlgoritmo
    
-4. Diseñar un algoritmo que imprima el cuadrado y
-   el cubo de un número ingresado por teclado
+4. Diseñar un algoritmo que imprima el cuadrado y el cubo de un número ingresado por teclado
    
    Algoritmo CuadradoCubo
 	Escribir "Ingrese un numero: "
