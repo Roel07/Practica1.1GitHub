@@ -17,8 +17,7 @@
 	Escribir capital "es la capital de: " pais
    FinAlgoritmo
    
-3.  Crear un algoritmo que muestre por pantalla el
-    doble y el triple de un número ingresado por
+3.  Crear un algoritmo que muestre por pantalla el doble y el triple de un número ingresado por
     teclado.
     
     Algoritmo DobleTriple
